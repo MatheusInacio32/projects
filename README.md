@@ -1,6 +1,20 @@
 # projects
 
 A new Flutter project.
+Este app exibe cotações de criptomoedas em **USD** e **BRL** usando a API do CoinMarketCap.  
+O usuário pode:
+- Pesquisar múltiplos símbolos (separados por vírgula).  
+- Atualizar dados via botão ou gesto pull-to-refresh.  
+- Tocar em uma moeda para ver detalhes (em BottomSheet).
+
+🎬 Uso
+Na tela principal, digite símbolos (ex.: BTC) para pesquisa
+
+Toque em Buscar (ou use pull-to-refresh).
+
+Toque em qualquer criptomoeda listada para abrir o BottomSheet de detalhes.
+
+Puxe a lista para cima a qualquer momento para atualizar.
 
 ## Getting Started
 
